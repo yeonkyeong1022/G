@@ -34,6 +34,7 @@
     | PUT | /replies/{rno} | 댓글 번호+수정할 내용 | 댓글 수정 |
 
 ## 엔티티 관계도
+<img width="230" alt="화면 캡처 2022-08-03 230312" src="https://user-images.githubusercontent.com/89283563/182627896-f2cd77eb-6757-4722-a873-84fda05e83c0.png">
 
 
 ## 프로젝트 디자인
