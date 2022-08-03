@@ -20,7 +20,7 @@ public class ReplyServiceImpl implements ReplyService {
     public Long register(ReplyDTO replyDTO) {
 
         Reply reply = dtoToEntity(replyDTO);
-
+        System.out.println("ello");
         replyRepository.save(reply);
 
         return reply.getRno();

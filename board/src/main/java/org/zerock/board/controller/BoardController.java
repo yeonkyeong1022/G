@@ -60,7 +60,6 @@ public class BoardController {
 //
 //        model.addAttribute("dto", boardDTO);
 //
-//
 //    }
 
     @GetMapping({"/read", "/modify" })
@@ -93,9 +92,7 @@ public class BoardController {
 
 
     @PostMapping("/modify")
-    public String modify(BoardDTO dto,
-                         @ModelAttribute("requestDTO") PageRequestDTO requestDTO,
-                         RedirectAttributes redirectAttributes){
+    public String modify(BoardDTO dto, @ModelAttribute("requestDTO") PageRequestDTO requestDTO, RedirectAttributes redirectAttributes){
 
 
         log.info("post modify.........................................");
