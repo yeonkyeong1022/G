@@ -38,3 +38,14 @@
 
 ## 프로젝트 디자인
 
+- 댓글 목록 출력
+<img width="1372" alt="화면 캡처 2022-08-03 224741" src="https://user-images.githubusercontent.com/89283563/182627419-c0b1909c-e041-4f5f-a6b0-518c559dc4a9.png">
+
+
+- 게시글 조회 화면
+<img width="1128" alt="화면 캡처 2022-08-03 224806" src="https://user-images.githubusercontent.com/89283563/182627436-97b606c9-31af-4a7c-a5bf-7dfd5393e370.png">
+
+
+- 댓글 등록 화면
+<img width="1282" alt="화면 캡처 2022-08-03 224849" src="https://user-images.githubusercontent.com/89283563/182627478-e3ec8916-c67f-4f92-bf0e-0ef519fca259.png">
+
